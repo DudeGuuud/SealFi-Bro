@@ -25,8 +25,8 @@ SealFi Bro 是 **Sui Overflow 黑客松** 的最佳代言人！以“dogs, cats,
 
 - **目标**：让 Sui 区块链成为 meme 文化的终极主场！  
 - **项目方向**：  
-  - **NFT 系列**：推出“SealFi Bro 电影宇宙”NFT（星球大战、哈利·波特、指环王主题）。  
-  - **DApp 游戏**：开发“Degen Surf”游戏，用户控制 SealFi Bro 收集 NFT 和 meme 币。  
+  - **NFT 系列**：推出“SealFi Bro 电影宇宙”NFT。  
+  - **DApp 游戏**：开发“Surf On Sui”游戏，用户控制 SealFi Bro 收集 NFT 和 meme 币。  
   - **Meme 传播**：在 X 平台发布 SealFi Bro 梗图，带 #SuiOverflow 标签席卷社区！  
 
 ## Join the Degen Wave! 🌊

@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST='{"index.tsx -> @/components/CanvasGame":{"id":628,"files":["static/chunks/628.9b118b9cd6af6d6c.js"]},"index.tsx -> @/components/WalletConnection":{"id":4098,"files":["static/chunks/98.c4cf33978d97119d.js"]}}';

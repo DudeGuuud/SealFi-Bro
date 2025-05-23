@@ -25,8 +25,8 @@ SealFi Bro is the ultimate mascot for the **Sui Overflow Hackathon**! With a the
 
 - **Mission**: Turn Sui blockchain into the meme culture epicenter!  
 - **Project Ideas**:  
-  - **NFT Series**: Launch “SealFi Bro Movie Universe” NFTs (Star Wars, Harry Potter, Lord of the Rings themes).  
-  - **DApp Game**: Build “Degen Surf” where players control SealFi Bro to collect NFTs and meme coins.  
+  - **NFT Series**: Launch “SealFi Bro Movie Universe” NFTs.  
+  - **DApp Game**: Build “Surf On Sui” where players control SealFi Bro to collect NFTs and meme coins.  
   - **Meme Campaign**: Drop SealFi Bro memes on X with #SuiOverflow to hype the community!  
 
 ## Join the Degen Wave! 🌊
