@@ -47,3 +47,22 @@ Ready? Let’s unleash a degen tidal wave at Sui Overflow! 🔥
   <img src="/Publisher_SealFi_Bro.png" width="200"/>
   <img src="/Magician_SealFi_Bro.png" width="200"/>
 </p>
+## SealFi Bro Drops NFT & $SEALFI Token! 🦭💧
+
+Hey degen fam! 🚀 SealFi Bro, the wackiest sea lion on the Sui blockchain, is bringing some 🔥 heat to the Web3 party! Get ready for **NFTs** and **$SEALFI token** drops that’ll make you yell “Sui to the Moon!”  
+
+## What’s Coming? 🌟
+- **$SEALFI Token Launch**: Your ticket to the degen surf party! Use $SEALFI to grab NFTs, play in our DApp, and join the Sui ecosystem madness. Dropping soon—stay tuned!  
+- **SealFi Bro NFT Collection**: Collectible, goofy, and totally meme-worthy! SealFi Bro will rock “Deal With It” shades, wave “Sui Overload” flags, and surf on Sui tokens in a Web3 universe packed with blockchain vibes (think data waves, NFT icons, and meme coin sparkles).  
+- **More NFTs Over Time**: We’ll keep dropping new SealFi Bro NFTs with fresh looks and vibes—more magics, more memes, more degen energy!  
+
+## Why Join the Wave? 🏄‍♂️
+- Built on **Sui blockchain**: Fast, cheap, and perfect for degen shenanigans.  
+- Pure meme culture: No movie stuff here—just original SealFi Bro chaos with a Web3 twist!  
+- Community-driven: Your memes, your vibe, your chance to shape the SealFi Bro universe.  
+
+## Stay in the Loop! 📢
+Follow us on X and join our Telegram for drop dates, sneak peeks, and whitelist spots. Let’s make Sui the ultimate meme playground!  
+
+> *“Sui Overload, bro—let’s surf this blockchain wave!”*  
+> — SealFi Bro
