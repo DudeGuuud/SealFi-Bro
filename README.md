@@ -43,6 +43,3 @@ Ready? Let’s unleash a degen tidal wave at Sui Overflow! 🔥
   <img src="/Wizard_SealFi_Bro.png" width="200"/>
   <img src="/Surfing_SealFi_Bro.png" width="200"/>
 </p>
-
----
-*Created for Sui Overflow Hackathon, May 23, 2025*
