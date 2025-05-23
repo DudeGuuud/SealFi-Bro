@@ -47,6 +47,7 @@ Ready? Let’s unleash a degen tidal wave at Sui Overflow! 🔥
   <img src="/Publisher_SealFi_Bro.png" width="200"/>
   <img src="/Magician_SealFi_Bro.png" width="200"/>
 </p>
+
 ## SealFi Bro Drops NFT & $SEALFI Token! 🦭💧
 
 Hey degen fam! 🚀 SealFi Bro, the wackiest sea lion on the Sui blockchain, is bringing some 🔥 heat to the Web3 party! Get ready for **NFTs** and **$SEALFI token** drops that’ll make you yell “Sui to the Moon!”  
