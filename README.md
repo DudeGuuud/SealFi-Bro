@@ -33,6 +33,12 @@ SealFi Bro is the ultimate mascot for the **Sui Overflow Hackathon**! With a the
 SealFi Bro invites you to surf the Sui blockchain and dive into the wild, funny side of Web3!  
 > “One Coin to Rule Them All, and in the Blockchain Bind Them!”  
 Ready? Let’s unleash a degen tidal wave at Sui Overflow! 🔥
+## Meet SealFi Bros!
+<p align="center">
+  <img src="/JEDI_SealFi_Bro.png" width="200"/>
+  <img src="/King_SealFi_Bro.png" width="200"/>
+  <img src="/Wizard_SealFi_Bro.png" width="200"/>
+</p>
 
 ---
 *Created for Sui Overflow Hackathon, May 23, 2025*
