@@ -1,6 +1,6 @@
 # SealFi Bro - The Degen Surf King of Sui 🏄‍♂️
 
-![SealFi Bro Image](/Magician_SealFi_bro.png)  
+![SealFi Bro Image](/avatar.png)  
 *"Sui to the Moon! 🚀"*
 
 ## Who is SealFi Bro? 🦭
@@ -38,6 +38,7 @@ Ready? Let’s unleash a degen tidal wave at Sui Overflow! 🔥
   <img src="/JEDI_SealFi_Bro.png" width="200"/>
   <img src="/King_SealFi_Bro.png" width="200"/>
   <img src="/Wizard_SealFi_Bro.png" width="200"/>
+  <img src="/Surfing_SealFi_Bro.png" width="200"/>
 </p>
 
 ---
