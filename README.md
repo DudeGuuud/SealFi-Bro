@@ -1,7 +1,9 @@
 # SealFi Bro - The Degen Surf King of Sui 🏄‍♂️
 
 ![SealFi Bro Image](/avatar.png)  
-*"Sui to the Moon! 🚀"*
+*"Surf to the Moon! 🚀"*
+## First Do you want to play with SealFi Bro?
+![Surf On The Block Chain Waves]https://seal-fi-bro.vercel.app
 
 ## Who is SealFi Bro? 🦭
 SealFi Bro is a wild and wacky sea lion from the **Sui Blockchain Universe**, blending goofy charm with pure degen spirit! He’s no ordinary seal—he’s the Web3 Surf King, riding a massive, glowing **Sui token** on waves made of blockchain data.  
